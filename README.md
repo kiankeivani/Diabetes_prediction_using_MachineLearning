@@ -48,8 +48,6 @@ Build a binary classifier that labels a person as **diabetic (1)** or **non-diab
 
 **Class balance:** about 72.5% of the samples are diabetic (mean of `Outcome` = 0.725), so the classes are imbalanced.
 
-> **Note:** the dataset was provided as part of a course assignment. Check its terms before redistributing it, and add it to the repository only if allowed.
-
 ---
 
 ## Workflow
